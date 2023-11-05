@@ -1,4 +1,4 @@
-# Flappt-Copy-Unity-
+# Flappy Copy Unity
 Aprendendo unity, fiz uma cópia feia do flappy bird
 
 
